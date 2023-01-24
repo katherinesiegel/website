@@ -8,11 +8,9 @@ project:
     - "!LICENSE.md"
     - "!myresources/"
     - "!certificate*"
+  output-dir: docs
   resources:
     - "files/"
-  preview:
-    port: 4321
-    browser: true
 
 execute:
   # Re-render only when source changes
@@ -22,13 +20,13 @@ description-meta: "Katherine Siegel"
 
 website:
   title: "Katherine Siegel"
-  site-url: "https://github.com/katherinesiegel/website"
-  repo-url: https://github.com/katherinesiegel/website
-  description: "Katherine Siegel"
+  # site-url: "https://github.com/katherinesiegel/website"
+  # repo-url: https://github.com/katherinesiegel/website
+  # description: "Katherine Siegel"
   # favicon: /files/icon.png 
-  twitter-card: 
-    creator: "@kjohannetsiegel"
-  cookie-consent: true    
+  # twitter-card: 
+  #   creator: "@kjohannetsiegel"
+  # cookie-consent: true    
   search: true
   sidebar:
     background: "#5A8B92"
@@ -39,16 +37,14 @@ website:
         href: https://github.com/katherinesiegel/website
     style: docked
     contents:
-      - text: "About"
-        href: "index.qmd"
-      - text: "Research"
-        href: "research.qmd"
-      - text: "Publications"
-        href: "publications.qmd"
-      - text: "Teaching"
-        href: "teaching.qmd"
-      # - text: "Subscribe"
-      #   file: subscribe.qmd
+      - text: About
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
   
 
 
@@ -65,8 +61,7 @@ website:
 
 format:
   html:
-    theme: 
-      - html/ath.scss
+    theme: cosmo
     toc: true
     code-link: true
     anchor-sections: true
