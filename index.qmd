@@ -1,5 +1,5 @@
 ---
-title: "Katherine Siegel"
+title: "About"
 # about:
   # template: trestles
   # image: files/headshot.jpg
