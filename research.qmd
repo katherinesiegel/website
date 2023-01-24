@@ -1,0 +1,79 @@
+---
+title: "Research"
+---
+
+### Overview
+My research spans ecosystems, from California rangelands to the Amazon rainforest, but all of my work stems from a guiding interest in advancing the sustainable and equitable management of social-ecological systems to sustain biodiversity and human well-being. I am particularly focused on working landscapes, which support biodiversity and rely on that same biodiversity to provide the ecological functioning and ecosystem goods and services that humans rely on. I incorporate methods from different fields to answer my research questions, including spatial and statistical modeling, quasi-experimental econometric approaches to causal inference, and functional trait analysis. My work is interdisciplinary and I collaborate with physical, natural, and social scientists, as well as partners in government agencies, non-profit organizations, and cooperative extension. 
+
+My recent and on-going work covers four general themes:  
+
+* Wildfires and land management  
+* Interdisciplinary conservation science  
+* Global environmental change and ecological transformations  
+* Sustainability in marine social-ecological systems  
+
+### Wildfires & land management
+The landscapes of the western US have experienced increased fire activity in recent decades, with larger areas burning in high severity fires. These increases are linked to climate change and also to legacies of fire suppression and land management. Increased wildfire frequency has consequences for human lives, health, and well-being, while increases in the frequency and extent of high-severity fires impacts ecosystems and their functioning. As these landscapes represent complex social-ecological systems, disentangling the different drivers of change presents conceptual and methodological challenges. I synthesize spatiotemporally large datasets and use quasi-experimental methods from econometrics to understand the causal links between land management and wildfire activity in the western US. My goal is to inform land and wildfire management to advance climate adaptation. Some specific past, present, and future research topics in this area include:  
+
+* Understanding the effects of forest ownership on wildfire probability and severity across the western US (*Collaborators: Van Butsic, Laura Dee, Laurel Larsen, Henry Li, Connor Stephens, Bill Stewart*)  
+
+```{=html}
+<div class = "rainbow_fire"><img src = "./files/rainbow_fire.jpg" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >The Rainbow Fire burned through this forest in California's Ansel Adams Wilderness in 1992. Thirty years later, the ecological impacts of this high severity fire are still apparent. </figcaption>
+
+<br>
+```
+
+
+* Assessing the effect of livestock grazing on rangeland wildfire probability in California (*Collaborators: Theresa Becchetti, Van Butsic, Luke Macaulay, Fadzayi Mashiri, Laurel Larsen, Stephanie Larson, Matthew Shapero, Lulu Waks*)   
+
+```{=html}
+<div class = "cows"><img src = "./files/cows.jpg" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Cattle grazing in John Muir Land Trust, Martinez, California. </figcaption>  
+```
+
+### Interdisciplinary conservation science  
+The challenge of equitably conserving landscapes, ecosystems, and species in the context of rapid environmental change requires an interdisciplinary approach. I draw on land system science and conservation biology and collaborate with social scientists to better understand the drivers of land use change and the consequences of these changes for biodiversity and people. 
+
+As a co-leader of a Graduate Pursuit funded by the [National Socio-Environmental Synthesis Center](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/the-interactions-between-agricultural-expansion-and), I worked with an interdisciplinary team to study the dynamics of deforestation in protected areas in the Amazon Basin. We integrated methods from critical conservation studies and land system science, including remote sensing, policy analysis, and discourse analysis to understand the dynamic socio-ecological processes of agricultural expansion, deforestation, and conservation discourses. You can learn more about our group's work at our [project website](https://amazonagfrontiers.weebly.com/) (*collaborators: Megan Mills-Novoa, Aldo Farah Perez, Eva Kinnebrew, José Ochoa, & Elizabeth Shoffner*).
+
+```{=html}
+<div class = "jamanxim_deforest"><img src = "./files/jamanxim_deforest.JPG" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Expansion of agriculture and cattle ranching in and around Jamanxim National Forest in Pará, Brazil. Landsat/Copernicus image from Google Earth.</figcaption>
+```
+
+### Global environmental change and ecological transformations
+In the context of rapid, directional, and at times irreversible environmental change, we are seeing both abrupt and gradual ecological transformations: drivers such as increasing temperatures, more severe droughts, and nutrient pollution tip ecosystems over thresholds. These "new" ecosystems have different species compositions and ecological functioning, and they provide different levels of ecosystem services. I use causal inference methods, ecological functional trait analyses, and ecosystem service modeling to understand where, why, and how these ecological transformations occur and how they impact ecosystems and humans. I am collaborating with partners in government agencies to help guide management responses to these ecological transformations. This is an area of ongoing work for me, and some specific research topics I am addressing include:    
+
+* The impact of land management on the likelihood of ecological transformations in fire-prone forests in the western US  
+* The effect of wildfire on forest functional traits related to drought tolerance and wildfire resistance  
+* The impacts of ecological transformations in forests on ecosystem services and socially vulnerable rural communities in the western US  
+* The operationalization of the Resist-Accept-Direct framework for managing ecological transformations  
+*Collaborator: Laura Dee*
+
+```{=html}
+<div class = "palisade_fire"><img src = "./files/palisade_fire.JPG" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Ecosystem recovery following the Palisade Fire in Kings Canyon National Park.</figcaption>
+```
+
+### Sustainability in marine social-ecological systems  
+Although most of my current work is in terrestrial systems, the questions that motivate my work also apply in coastal and marine realms. Here, I have collaborated with fisheries scientists, marine ecologists, resource economists, and fisheries managers to contribute to adaptive fisheries management and advance our understandings of the social-ecological effects of rapid environmental change in coastal and marine systems. My work in the marine realm includes:  
+
+* Assessing the [social-ecological vulnerability](https://doi.org/10.1098/rspb.2018.2365) of thirty Caribbean islands to coral bleaching   
+```{=html}
+<div class = "boka_sami"><img src = "./files/boka_sami3.jpg" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Fishing boats in Boka Sami, Curaçao. </figcaption>
+
+<br>
+```
+
+* [Operationalizing the social-ecological systems framework](https://doi.org/10.1073/pnas.1414640112) to assess sustainability of small-scale fisheries in the Gulf of California  
+```{=html}
+<div class = "gulf_of_california"><img src = "./files/gulf_of_california.jpg" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Fishing boat in Mexico's Gulf of California. </figcaption>
+
+<br>  
+```
+
+* Developing user-friendly [decision support tools for resource managers](https://doi.org/10.1016/j.ocecoaman.2017.11.015) in small-scale, data-limited fisheries  
+```{=html}
+<div class = "curacao_fish"><img src = "./files/curacao_fish.jpg" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Fisheries landing in a small-scale, data-limited fishery. </figcaption>
+
+<br> 
+```
+
+* Assessing the impacts of climate change, fisheries reform, and improved mariculture on [global seafood production](https://doi.org/10.1038/s41586-022-04674-5)

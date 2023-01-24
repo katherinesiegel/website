@@ -60,7 +60,6 @@ website:
       
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      Inspiration and code snippets taken from [these folks.](/posts/quarto-website-migration.html)<br>
       [Source at {{< fa brands github >}} GitHub](https://github.com/katherinesiegel/website)
 
 
