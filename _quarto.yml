@@ -29,7 +29,7 @@ website:
   # cookie-consent: true    
   search: true
   sidebar:
-    background: "#DFE3CE"
+    background: "#5E3B49"
     pinned: true
     align: center 
     tools:
