@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching & Mentoring"
 ---
 
 ### Teaching Philosophy  
@@ -14,3 +14,6 @@ I strive to create an equitable and inclusive learning environment through guide
 **University of California-Berkeley**  
 *Principles of Conservation Biology*, Graduate Student Instructor  
 *Fire: Past, Present, and Future Interactions with the Peoples and Ecosystems of California*, Graduate Student Instructor
+
+### Mentoring  
+I view mentoring as an important vehicle for addressing obstacles to diversity, equity, inclusion, and justice in higher education, STEM, and the environmental community. I have mentored 14 undergraduate researchers at UC Berkeley and CU Boulder, and for the past three years, I have mentored a first-generation college student through [Oakland Promise](https://oaklandpromise.org/). I have also supported prospective grad students through the grad school application process through [Cientifico Latino](https://www.cientificolatino.com/).
