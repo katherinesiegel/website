@@ -1,0 +1,52 @@
+---
+title: "Katherine Siegel (she/her/hers)"
+# about:
+  # template: trestles
+  # image: files/headshot.jpg
+  # links:
+    # - icon: globe
+    #   text: Web
+    #   href: https://katherinesiegel.github.io/
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/katherinesiegel/katherinesiegel.github.io
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/kjohannetsiegel
+    # - icon: google-scholar
+    #   text: Google Scholar
+    #   href: https://scholar.google.com/citations?user=IhOqSsIAAAAJ&hl=en
+    # - icon: orcid
+    #   text: ORCID
+    #   href: https://orcid.org/0000-0001-6294-2130
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4}
+
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(max-width: 576px)" srcset="./files/headshot.jpg">
+      <source media="(min-width: 576px)" srcset="./files/headshot.jpg">
+      <img class="img-fluid" src="./files/headshot.jpg" alt="./files/headshot.jpg">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
+```
+
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+
+I am an interdisciplinary environmental scientist interested in the sustainable and equitable management of ecosystems in the context of rapid environmental change. I am currently a [NOAA Climate & Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc) in the Department of Ecology & Evolutionary Biology at the University of Colorado, Boulder. Here, I am working with [Dr. Laura Dee](https://www.lauraedee.com/) to improve our understandings of the linkages between forest ownership and wildfire severity, as well as the consequences of increased fire severity for forest functional trait diversity and ecosystem services across the western US. 
+
+I received my PhD in Environmental Science, Policy, & Management at the University of California, Berkeley, where I worked with Dr. Van Butsic in the [LUC Lab](https://luclab.berkeley.edu/). During my PhD, I used quantitative methods to understand the drivers of change in complex social-ecological systems, drawing on theories and methodologies from conservation science, land system science, and econometrics. I was a trainee in [Data Science for the 21st Century](http://ds421.berkeley.edu/), a National Science Foundation National Research Traineeship program focused on interdisciplinary environmental data science, and co-led a [National Socio-Environmental Synthesis Center](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/the-interactions-between-agricultural-expansion-and) Graduate Pursuit. My doctoral studies were supported by a Berkeley Fellowship. I have an MS in Biodiversity, Conservation, & Management from the University of Oxford and a BS in Environmental Science from Brown University. 
+
+:::
+
+:::
