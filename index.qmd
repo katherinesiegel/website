@@ -30,9 +30,9 @@ title: "About"
   <div class="g-col-1 g-col-sm-0"></div>
   <div class="g-col-3 g-col-sm-5">
     <picture>
-      <source media="(max-width:50%)" srcset="./files/headshot.jpg">
-      <source media="(min-width:50%)" srcset="./files/headshot.jpg">
-      <img class="img-fluid" src="./files/headshot.jpg" alt="./files/headshot.jpg">
+      <source media="(max-width:50%)" srcset="./files/headshot_circle.png">
+      <source media="(min-width:50%)" srcset="./files/headshot_circle.png">
+      <img class="img-fluid" src="./files/headshot_circle.png" alt="./files/headshot_circle.png">
     </picture>
   </div>
   <div class="g-col-1 g-col-sm-0"></div>
