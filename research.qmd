@@ -49,7 +49,7 @@ In the context of rapid, directional, and at times irreversible environmental ch
 *Collaborator: Laura Dee*
 
 ```{=html}
-<div class = "palisade_fire"><img src = "./files/palisade_fire.JPG" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Ecosystem recovery following the Palisade Fire in Kings Canyon National Park.</figcaption>
+<div class = "palisade_fire"><img src = "./files/palisade_fire.jpg" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Ecosystem recovery following the Palisade Fire in Kings Canyon National Park.</figcaption>
 ```
 
 ### Sustainability in marine social-ecological systems  
