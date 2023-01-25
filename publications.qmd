@@ -27,7 +27,7 @@ McDonald, G., Campbell, S., Karr, K., Clemence, M., Granados-Dieseldorff, P., Ja
 
 Leslie, H., Basurto, X., Nenadovic, M., Sievanen, L., Cavanaugh, K., Cota-Nieto, J., Erisman, B., Finkbeiner, E., Hinojosa-Arango, G., Moreno‐Báez, M., Nagavarapu, S., Reddy, S., Sanchez-Rodríguez, A., **Siegel, K.J.**, Ulibarria-Valenzuela, J.J., Hudson Weaver, A., Aburto-Oropeza, A. (2015) Operationalizing the social-ecological systems framework to assess sustainability. _Proceedings of the National Academy of Sciences_ **112**(19): 5979-5984. [doi: 10.1073/pnas.1414640112](https://doi.org/10.1073/pnas.1414640112).
 
-#### In revision and in review
+### In revision and in review
 LoPresti, A., Hayden, M., **Siegel, K.J.**, Poulter, B., Dee, L. Remote sensing applications for prescribed burn
 research. In review at _Journal of Applied Ecology_.
 
