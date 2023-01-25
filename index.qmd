@@ -4,18 +4,15 @@ title: "Katherine J. Siegel"
   # template: trestles
   # image: files/headshot.jpg
   links:
-  - icon: globe
-    text: Web
-    href: https://katherinesiegel.github.io/
   - icon: github
     text: Github
-    href: https://github.com/katherinesiegel/website
+    href: https://github.com/katherinesiegel/
   - icon: twitter
     text: Twitter
     href: https://twitter.com/kjohannetsiegel
   - icon: google-scholar
     text: Google Scholar
-    href: https://scholar.google.com/citations?user=IhOqSsIAAAAJ&hl=en
+    href: https://scholar.google.com/citations?user=IhOqSsIAAAAJ
   - icon: orcid
     text: ORCID
     href: https://orcid.org/0000-0001-6294-2130
