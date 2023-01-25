@@ -2,10 +2,10 @@
 title: "Publications"
 ---
 
-#### Peer-Reviewed
+## Peer-Reviewed
 Please email me if you would like a pdf copy of a publication, or vist my [Google Scholar page](https://scholar.google.com/citations?user=IhOqSsIAAAAJ&hl=en&oi=ao). 
 
-##### Published   
+### Published   
 **Siegel, K.J.**, Larsen, L., Stephens, C., Stewart, W., Butsic, V. 2022. Quantifying drivers of change in social-ecological systems: land management impacts wildfire probability in forests of the western US. _Regional Environmental Change_ **22**. [doi:10.1007/s10113-022-01950-y](https://doi.org/10.1007/s10113-022-01950-y).
 
 **Siegel, K.J.**, Macaulay, L., Shapero, M., Becchetti, T., Larson, S., Mashiri, F., Waks, L., Butsic, V. 2022. Impacts of
@@ -27,19 +27,19 @@ McDonald, G., Campbell, S., Karr, K., Clemence, M., Granados-Dieseldorff, P., Ja
 
 Leslie, H., Basurto, X., Nenadovic, M., Sievanen, L., Cavanaugh, K., Cota-Nieto, J., Erisman, B., Finkbeiner, E., Hinojosa-Arango, G., Moreno‐Báez, M., Nagavarapu, S., Reddy, S., Sanchez-Rodríguez, A., **Siegel, K.J.**, Ulibarria-Valenzuela, J.J., Hudson Weaver, A., Aburto-Oropeza, A. (2015) Operationalizing the social-ecological systems framework to assess sustainability. _Proceedings of the National Academy of Sciences_ **112**(19): 5979-5984. [doi: 10.1073/pnas.1414640112](https://doi.org/10.1073/pnas.1414640112).
 
-##### In revision and in review
+#### In revision and in review
 LoPresti, A., Hayden, M., **Siegel, K.J.**, Poulter, B., Dee, L. Remote sensing applications for prescribed burn
 research. In review at _Journal of Applied Ecology_.
 
 Rybski, D., Hemond, O., Wartenberg, A., **Siegel, K.J.**, Butsic, V. Assessing fire landscape connectivity in California using predictive percolation. In revision at _Environmental Research Letters_.
 
 
-#### Conference Proceedings
+## Conference Proceedings
 
 Thomas, L., **Siegel, K.**, Owashi, B., Estep, A., Gedamke, T., & Lester, S. 2015. [Determining effective fisheries monitoring and assessment approaches in data-limited contexts: a case study of the fisheries in Montserrat and Curacao.](http://proceedings.gcfi.org/proceedings/determining-effective-fisheries-monitoring-and-assessment-approaches-in-data-limited-contexts-a-case-study-of-the-fisheries-in-montserrat-and-curacao/?_sf_s=thomas&_sfm_volume=68) *Proceedings of the 68th Gulf and Caribbean Fisheries Institute Conference*, Panama City, Panama.
 
 
-#### Conference Presentations
+## Conference Presentations
 **Siegel, K.J.**, Macaulay, L., Shapero, M., Becchetti, T., Larson, S., Mashiri, F., Waks, L., Butsic, V. Impacts of livestock grazing on wildfire probability vary by region and vegetation type in California. *Ecological Society of America & Canadian Society of Ecology and Evolution*, August 2022, Montreal, Canada.
 
 **Siegel, K.J.** Collaborations with Cooperative Extension for use- and stakeholder-inspired wildfire science. *NOAA Climate & Global Change Summer	Institute*, July 2022, Steamboat Springs, Colorado.
@@ -60,17 +60,17 @@ Clemence, M., Atrigenio, M., Carvalho, F., Cunningham, E., Fujita, R., Guirjen, 
 
 McDonald, G., Campbell, S., Fox, H., Jakub, R., Karr, K., Kartawijaya, T., Mueller, J., **Siegel, K.**, & Thomas, L. An adaptive assessment and management toolkit for data-limited fisheries with a case study from Karimunjawa National Park, Indonesia. *International Congress for Conservation Biology*, 2-6 August  2015, Montpelier, France.
 
+### Organized Symposia
 
-#### Poster Presentations
-
-Englander, A.G., Errickson, F., Norman, K., **Siegel, K.**, & Tribble, C. Data Science Collaborations with Conservation Nonprofits, Environment and Society DS421 NRT. *Berkeley Institute for Data Science, Data Science Faire*, 2018, Berkeley, California.  
-
-**Siegel, K.**, Lasch, C., Reddy, S., & Leslie, H. Integrating ecological and institutional considerations into marine conservation planning in Mexico's Gulf of California. *International Marine Conservation Congress*, 14-18 August 2014, Glasgow, Scotland.
-
-
-#### Organized Symposia
 Mills-Novoa, M., Kinnebrew, E., **Siegel, K.J.**, Shoffner, E., Ochoa, J. Synthesizing quantitative and qualitative understandings of deforestation drivers and solutions in protected areas in the Amazon. *American Association of Geographers Annual Meeting*, April 2021.
 
 Mills-Novoa, M., **Siegel, K.J.**, Shoffner, E. Qualitative and quantitative approaches to understanding deforestation dynamics in the Amazon Basin. *American Association of Geographers Annual Meeting*, April 2020, Denver, CO.
 
 **Siegel, K.**, & Clemence, M. Connecting theory and practice to advance marine conservation science and outcomes. *International Marine Conservation Congress*, 30 July-3 August 2016, St. John's, Newfoundland, Canada.
+
+
+### Poster Presentations
+
+Englander, A.G., Errickson, F., Norman, K., **Siegel, K.**, & Tribble, C. Data Science Collaborations with Conservation Nonprofits, Environment and Society DS421 NRT. *Berkeley Institute for Data Science, Data Science Faire*, 2018, Berkeley, California.  
+
+**Siegel, K.**, Lasch, C., Reddy, S., & Leslie, H. Integrating ecological and institutional considerations into marine conservation planning in Mexico's Gulf of California. *International Marine Conservation Congress*, 14-18 August 2014, Glasgow, Scotland.
