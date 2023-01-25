@@ -38,7 +38,7 @@ website:
     style: docked
     contents:
       - text: About
-        href: index.qmd
+        href: about.qmd
       - text: Research
         href: research.qmd
       - text: Publications
