@@ -50,8 +50,7 @@ website:
 
   page-footer:
     left: |
-      [{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=IhOqSsIAAAAJ)
-      [{{< fa brands github >}}](https://github.com/katherinesiegel)
+      [GoogleScholar](https://scholar.google.com/citations?user=IhOqSsIAAAAJ)
       [{{< fa brands twitter >}}](https://mobile.twitter.com/kjohannetsiegel)
 
     right: |
