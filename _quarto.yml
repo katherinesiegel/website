@@ -50,13 +50,13 @@ website:
 
   page-footer:
     left: |
-      {{< fa regular copyright >}} Katherine Siegel, 2023<br>
-      All content licensed under {{< fa brands creative-commons >}}
-      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-      
+      [{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=IhOqSsIAAAAJ)
+      [{{< fa brands github >}}](https://github.com/katherinesiegel)
+      [{{< fa brands twitter >}}](https://mobile.twitter.com/kjohannetsiegel)
+
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      [Source at {{< fa brands github >}} GitHub](https://github.com/katherinesiegel/website)
+      [Source at {{< fa brands github >}}](https://github.com/katherinesiegel/website)
 
 
 format:
