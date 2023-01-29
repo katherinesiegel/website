@@ -23,25 +23,25 @@ title: "About"
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-sm-4}
+::: {.g-col-12 .g-col-md-4}
 
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
-  <div class="g-col-1 g-col-sm-0"></div>
-  <div class="g-col-3 g-col-sm-5">
+  <div class="g-col-1 g-col-md-0"></div>
+  <div class="g-col-3 g-col-md-5">
     <picture>
       <source media="(max-width:50%)" srcset="./files/headshot_circle.png">
       <source media="(min-width:50%)" srcset="./files/headshot_circle.png">
       <img class="img-fluid" src="./files/headshot_circle.png" alt="./files/headshot_circle.png">
     </picture>
   </div>
-  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-1 g-col-md-0"></div>
 </div>
 ```
 
 :::
 
-::: {.g-col-12 .g-col-sm-8}
+::: {.g-col-12 .g-col-md-8}
 
 I am an interdisciplinary environmental scientist interested in the sustainable and equitable management of ecosystems in the context of rapid environmental change. I am currently a [NOAA Climate & Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc) in the Department of Ecology & Evolutionary Biology at the University of Colorado, Boulder. Here, I am working with [Dr. Laura Dee](https://www.lauraedee.com/) to improve our understandings of the linkages between forest ownership and wildfire severity, as well as the consequences of increased fire severity for forest functional trait diversity and ecosystem services across the western US. 
 
