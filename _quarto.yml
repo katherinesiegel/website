@@ -50,14 +50,13 @@ website:
 
   page-footer:
     left: |
-      [GoogleScholar](https://scholar.google.com/citations?user=IhOqSsIAAAAJ)
+      [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=IhOqSsIAAAAJ)
+      [{{< fa brands github >}}](https://github.com/katherinesiegel/)
       [{{< fa brands twitter >}}](https://mobile.twitter.com/kjohannetsiegel)
 
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      [Source at {{< fa brands github >}}](https://github.com/katherinesiegel/website)
-
-
+      
 format:
   html:
     theme: cosmo
