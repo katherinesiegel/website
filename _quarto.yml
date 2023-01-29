@@ -59,7 +59,7 @@ website:
       
 format:
   html:
-    theme: sandstone
+    theme: yeti
     toc: true
     code-link: true
     anchor-sections: true
