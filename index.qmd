@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 # about:
   # template: trestles
   # image: files/headshot.jpg
@@ -20,6 +20,7 @@ title: "About"
     #   text: ORCID
     #   href: https://orcid.org/0000-0001-6294-2130
 ---
+## Working Landscapes | Conservation Science | Global Change
 
 ::: {.grid}
 

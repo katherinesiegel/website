@@ -21,8 +21,7 @@ title: ""
     #   text: ORCID
     #   href: https://orcid.org/0000-0001-6294-2130
 ---
-
-## Conservation Science | Working Landscapes | Global Change
+## Working Landscapes | Conservation Science | Global Change
 
 ::: {.grid}
 
