@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Conservation Science | Working Landscapes | Adapting to Global Environmental Change"
 # about:
   # template: trestles
   # image: files/headshot.jpg
