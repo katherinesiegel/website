@@ -29,9 +29,7 @@ Leslie H, X Basurto, M Nenadovic, L Sievanen, K Cavanaugh, J Cota-Nieto, B Erism
 ### In revision, in review, and submitted
 **Siegel KJ**, P Ferraro, L Dee. Comment on ‘Protected areas provide thermal buffer against climate change.’ Submitted to _Science Advances_.
 
-LoPresti A, M Hayden, **KJ Siegel**, B Poulter, L Dee. Remote sensing applications for prescribed burn research. In review at _Journal of Applied Ecology_.
-
-Rybski D, O Hemond, A Wartenberg, **KJ Siegel**, V Butsic. Assessing fire landscape connectivity in California using predictive percolation. In revision at _Environmental Research Letters_.
+Rybski D, O Hemond, A Wartenberg, **KJ Siegel**, V Butsic. Assessing fire landscape connectivity in California using predictive percolation. In revision at _Scientific Reports_.
 
 
 ## Conference Proceedings
