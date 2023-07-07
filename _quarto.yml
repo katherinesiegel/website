@@ -45,6 +45,8 @@ website:
         href: publications.qmd
       - text: Teaching & Mentoring
         href: teaching.qmd
+      - text: Opportunities
+        href: opportunities.qmd
   
 
 
