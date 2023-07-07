@@ -34,7 +34,7 @@ website:
     align: center 
     tools:
       - icon: github
-        href: https://github.com/katherinesiegel/website
+        href: https://github.com/katherinesiegel
     style: docked
     contents:
       - text: About
