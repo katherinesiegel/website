@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/katherinesiegel/website/about.html</loc>
-    <lastmod>2023-02-14T22:28:00.297Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/katherinesiegel/website/index.html</loc>
-    <lastmod>2023-02-14T22:28:01.313Z</lastmod>
+    <loc>https://github.com/katherinesiegel/website/teaching.html</loc>
+    <lastmod>2023-07-07T16:42:00.730Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/katherinesiegel/website/publications.html</loc>
-    <lastmod>2023-02-14T22:28:01.821Z</lastmod>
+    <lastmod>2023-07-07T16:41:59.962Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/katherinesiegel/website/index.html</loc>
+    <lastmod>2023-07-07T16:41:59.174Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/katherinesiegel/website/about.html</loc>
+    <lastmod>2023-07-07T16:41:58.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/katherinesiegel/website/opportunities.html</loc>
+    <lastmod>2023-07-07T16:41:59.578Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/katherinesiegel/website/research.html</loc>
-    <lastmod>2023-02-14T22:28:02.357Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/katherinesiegel/website/teaching.html</loc>
-    <lastmod>2023-02-14T22:28:02.825Z</lastmod>
+    <lastmod>2023-07-07T16:42:00.410Z</lastmod>
   </url>
 </urlset>
