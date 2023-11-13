@@ -6,11 +6,15 @@ title: "Publications"
 Please email me if you would like a pdf copy of a publication. You can also find a full list of my publications at my [Google Scholar page](https://scholar.google.com/citations?user=IhOqSsIAAAAJ&hl=en&oi=ao). 
 
 ### Published   
+**Siegel KJ**, K Cavanaugh, L Dee (in press) Balancing multiple management objectives as climate
+change transforms ecosystems. _Trends in Ecology & Evolution_.
+
 **Siegel KJ**, L Larsen, C Stephens, W Stewart, V Butsic (2022) Quantifying drivers of change in social-ecological systems: land management impacts wildfire probability in forests of the western US. _Regional Environmental Change_ **22**. [doi:10.1007/s10113-022-01950-y](https://doi.org/10.1007/s10113-022-01950-y).
 
 **Siegel KJ**, L Macaulay, M Shapero, T Becchetti, S Larson, F Mashiri, L Waks, V Butsic (2022) Impacts of livestock grazing on wildfire probability vary by region and vegetation type in California. _Journal of Environmental Management_ **322**, 116092. [doi:10.1016/j.jenvman.2022.116092](https://doi.org/10.1016/j.jenvman.2022.116092).
 
-**Siegel KJ**, A Farah Perez, E Kinnebrew, M Mills-Novoa, J Ochoa, E Shoffner (2022) Integration of qualitative and quantitative methods for land use change modeling in a protected area in an Amazonian deforestation frontier. _Conservation Biology_. [doi:10.1111/cobi.13924](https://doi.org/10.1111/cobi.13924).
+**Siegel KJ**, A Farah Perez, E Kinnebrew, M Mills-Novoa, J Ochoa, E Shoffner (2022) Integration of qualitative and quantitative methods for land use change modeling in a protected area in an Amazonian deforestation frontier. _Conservation Biology_. [doi:10.1111/cobi.13924](https://doi.org/10.1111/cobi.13924).  
+    * Third place winner of _Conservation Biology's_ [Rising Star Award, 2023](https://doi.org/10.1111/cobi.14102)  
 
 Kinnebrew E, J Ochoa, M French, M Mills-Novoa, E Shoffner, **KJ Siegel** (2022) Biases and limitations of Global Forest Change and author-generated land cover maps in detecting deforestation in the Amazon. _PLoS ONE_ **17**(7), e0268970. [doi:10.1371/journal.pone.0268970](https://doi.org/10.1371/journal.pone.0268970).
 
@@ -27,9 +31,15 @@ McDonald G, S Campbell, K Karr, M Clemence, P Granados-Dieseldorff, R Jakub, T K
 Leslie H, X Basurto, M Nenadovic, L Sievanen, K Cavanaugh, J Cota-Nieto, B Erisman, E Finkbeiner, G Hinojosa-Arango, M Moreno‐Báez, S Nagavarapu, S Reddy, A Sanchez-Rodríguez, **KJ Siegel**, JJ Ulibarria-Valenzuela, A Hudson Weaver, A Aburto-Oropeza (2015) Operationalizing the social-ecological systems framework to assess sustainability. _Proceedings of the National Academy of Sciences_ **112**(19): 5979-5984. [doi: 10.1073/pnas.1414640112](https://doi.org/10.1073/pnas.1414640112).
 
 ### In revision, in review, and submitted
-**Siegel KJ**, P Ferraro, L Dee. Comment on ‘Protected areas provide thermal buffer against climate change.’ Submitted to _Science Advances_.
+Rybski D, O Hemond, A Wartenberg, **KJ Siegel**, V Butsic. Assessing fire landscape connectivity in California using predictive percolation. In revision at _Scientific Reports_.  
 
-Rybski D, O Hemond, A Wartenberg, **KJ Siegel**, V Butsic. Assessing fire landscape connectivity in California using predictive percolation. In revision at _Scientific Reports_.
+Starrs G, **KJ Siegel**, S Larson, V Bustic. Quantifying large-scale impacts of cattle grazing on
+annual burn probability in Napa and Sonoma Counties, CA. In revision at _Ecology & Society_.
+
+LoPresti A, M Hayden M, **KJ Siegel**, B Poulter, N Stavros, L Dee. Remote sensing applications for
+prescribed burn research. In revision at _International Journal of Wildland Fire_.
+
+
 
 
 ## Conference Proceedings
