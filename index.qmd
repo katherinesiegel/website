@@ -20,7 +20,7 @@ title: ""
     #   text: ORCID
     #   href: https://orcid.org/0000-0001-6294-2130
 ---
-## Working Landscapes | Conservation & Data Science | Global Change
+## Working Landscapes | Conservation & Data Science
 
 ::: {.grid}
 
