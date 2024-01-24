@@ -20,7 +20,7 @@ title: ""
     #   text: ORCID
     #   href: https://orcid.org/0000-0001-6294-2130
 ---
-## Working Landscapes | Conservation Science | Global Change
+## Working Landscapes | Conservation & Data Science | Global Change
 
 ::: {.grid}
 
@@ -44,11 +44,12 @@ title: ""
 
 ::: {.g-col-12 .g-col-md-8}
 
-I am an interdisciplinary environmental scientist interested in the sustainable and equitable management of ecosystems in the context of rapid environmental change. I am currently a [NOAA Climate & Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc) in the Department of Ecology & Evolutionary Biology at the University of Colorado, Boulder. Here, I am working with [Dr. Laura Dee](https://www.lauraedee.com/) to improve our understandings of the linkages between forest ownership and wildfire severity, as well as the consequences of increased fire severity for forest functional trait diversity and ecosystem services across the western US. 
+I am an interdisciplinary environmental scientist interested in the sustainable and equitable management of ecosystems in the context of rapid environmental change. In January 2024, I joined the [Institute of Forestry and Conservation](https://academic.daniels.utoronto.ca/forestry/) at the [University of Toronto](https://www.utoronto.ca/) as an assistant professor. I integrate diverse quantitative and qualitative data to understand the drivers of change in complex social-ecological systems, drawing on theories and methods from conservation science, global change ecology, econometrics, and environmental data science while co-producing knowledge through collaborations with land management agencies. Much of my current work focuses on the socio-environmental impacts of changing wildfire regimes in western North America.
 
-I will be joining the [Institute of Forestry and Conservation](https://academic.daniels.utoronto.ca/forestry/) at the [University of Toronto](https://www.utoronto.ca/) as an assistant professor in January 2024. I am actively recruiting graduate students, undergraduate students, and postdoctoral fellows to join the lab beginning then! Visit the [Opportunities](https://katherinesiegel.github.io/website/opportunities.html) page for more information.
+I was previously a [NOAA Climate & Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc) in the Department of Ecology & Evolutionary Biology at the University of Colorado, Boulder. I received my PhD in Environmental Science, Policy, & Management at the University of California, Berkeley, where I worked with Dr. Van Butsic in the [LUC Lab](https://luclab.berkeley.edu/). At Berkeley, I was a trainee in [Data Science for the 21st Century](http://ds421.berkeley.edu/), a National Science Foundation National Research Traineeship program focused on interdisciplinary environmental data science, and co-led a [National Socio-Environmental Synthesis Center](https://www.sesync.org/research/agricultural-frontiers) Graduate Pursuit. My doctoral studies were supported by a Berkeley Fellowship. I have an MS in Biodiversity, Conservation, & Management from the University of Oxford and a BS in Environmental Science from Brown University. I use she/her/hers pronouns.  
+ 
+I am actively recruiting graduate students, undergraduate students, and postdoctoral fellows to join the lab at University of Toronto beginning in fall 2024! Visit the [Opportunities](https://katherinesiegel.github.io/website/opportunities.html) page for more information.
 
-I received my PhD in Environmental Science, Policy, & Management at the University of California, Berkeley, where I worked with Dr. Van Butsic in the [LUC Lab](https://luclab.berkeley.edu/). During my PhD, I used quantitative methods to understand the drivers of change in complex social-ecological systems, drawing on theories and methodologies from conservation science, land system science, and econometrics. I was a trainee in [Data Science for the 21st Century](http://ds421.berkeley.edu/), a National Science Foundation National Research Traineeship program focused on interdisciplinary environmental data science, and co-led a [National Socio-Environmental Synthesis Center](https://www.sesync.org/research/agricultural-frontiers) Graduate Pursuit. My doctoral studies were supported by a Berkeley Fellowship. I have an MS in Biodiversity, Conservation, & Management from the University of Oxford and a BS in Environmental Science from Brown University. I use she/her/hers pronouns.  
 
 :::
 
