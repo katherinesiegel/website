@@ -5,9 +5,12 @@ title: "Teaching & Mentoring"
 ### Teaching Philosophy  
 I prepare students and mentees for lifelong learning by teaching critical thinking and problem-solving skills. In addition to instructing students in course content, I empower them to develop skills to pursue self-directed learning beyond the classroom. I accomplish this by emphasizing active learning and demonstrating the applications of classroom concepts to contemporary issues.  
 
-I strive to create an equitable and inclusive learning environment through guidelines for classroom interactions and integrating historically-excluded perspectives into class. During my PhD, I earned a Certificate in Teaching and Learning in Higher Education. This certification included classroom observation and feedback from a faculty mentor, syllabus design, and coursework in effective and inclusive pedagogy. I was nominated for the Extraordinary Teaching in Extraordinary Times Award in 2021 in recognition of my student-centered teaching during COVID-19 shutdowns.
+I strive to create an equitable and inclusive learning environment through guidelines for classroom interactions and integrating historically-excluded perspectives into class. During my PhD, I earned a [Certificate in Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/). This certification included classroom observation and feedback from a faculty mentor, syllabus design, and coursework in effective and inclusive pedagogy. I was nominated for the Extraordinary Teaching in Extraordinary Times Award in 2021 in recognition of my student-centered teaching during COVID-19 shutdowns.
 
 ### Courses Taught 
+**University of Toronto**
+*Forest Conservation Biology*, Instructor of Record
+
 **University of Colorado-Boulder**  
 *Causal Inference for Ecology & Evolutionary Biology*, Co-Instructor of Record (course website [here](https://katherinesiegel.github.io/EBIOcausalinference/))
 
