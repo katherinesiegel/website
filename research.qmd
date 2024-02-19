@@ -40,13 +40,13 @@ As a co-leader of a Graduate Pursuit funded by the [National Socio-Environmental
 ```
 
 ### Global environmental change and ecological transformations
-In the context of rapid, directional, and at times irreversible environmental change, we are seeing both abrupt and gradual ecological transformations: drivers such as increasing temperatures, more severe droughts, and nutrient pollution tip ecosystems over thresholds. These "new" ecosystems have different species compositions and ecological functioning, and they provide different levels of ecosystem services. I use causal inference methods, ecological functional trait analyses, and ecosystem service modeling to understand where, why, and how these ecological transformations occur and how they impact ecosystems and humans. I am collaborating with partners in government agencies to help guide management responses to these ecological transformations. This is an area of ongoing work for me, and some specific research topics I am addressing include:    
+In the context of rapid, directional, and at times irreversible environmental change, we are seeing both abrupt and gradual ecological transformations: drivers such as increasing temperatures, more severe droughts, and nutrient pollution tip ecosystems over thresholds. These "new" ecosystems have different species compositions and ecological functioning, and they provide different levels of ecosystem services. I use causal inference methods, ecological functional trait analyses, and ecosystem service modeling to understand where, why, and how these ecological transformations occur and how they impact ecosystems and humans. I am collaborating with partners in government agencies (e.g., National Park Service, US Forest Service, and US Geological Survey) to help guide management responses to these ecological transformations. This is an area of ongoing work for me, and some specific research topics I am addressing include:    
 
 * The impact of land management on the likelihood of ecological transformations in fire-prone forests in the western US  
 * The effect of wildfire on forest functional traits related to drought tolerance and wildfire resistance  
 * The impacts of ecological transformations in forests on ecosystem services and socially vulnerable rural communities in the western US  
-* The operationalization of the Resist-Accept-Direct framework for managing ecological transformations  
-*Collaborator: Laura Dee*
+* The operationalization of the [Resist-Accept-Direct framework for managing ecological transformations in the Greater Yellowstone Area](https://www.usgs.gov/programs/climate-adaptation-science-centers/science/using-resist-accept-direct-framework-manage) (with support from the [North Central Climate Adaptation Science Center](https://nccasc.colorado.edu/))  
+*Collaborators: Laura Dee, Silvia Olvera-Hernandez, Tom Olliff, Ann Rodman, & Kyle Cavanaugh*
 
 ```{=html}
 <div class = "palisade_fire"><img src = "./files/palisade_fire.jpg" style = "max-width:70%; display: block; margin: 0 auto"; ><figcaption style = "max-width:70%; display: block; margin: 0 auto"; >Ecosystem recovery following the Palisade Fire in Kings Canyon National Park.</figcaption>
