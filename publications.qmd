@@ -1,41 +1,47 @@
 ---
 title: "Publications"
 ---
+<style>
+ol  { display: flex; flex-direction: column-reverse; }
+</style>
 
 ## Peer-Reviewed
 Please email me if you would like a pdf copy of a publication. You can also find a full list of my publications at my [Google Scholar page](https://scholar.google.com/citations?user=IhOqSsIAAAAJ&hl=en&oi=ao). 
 
-### Published   
-**Siegel KJ**, K Cavanaugh, L Dee (2024) Balancing multiple management objectives as climate
-change transforms ecosystems. _Trends in Ecology & Evolution_ **39**(4), 381-395. [https://doi.org/10.1016/j.tree.2023.11.003](https://doi.org/10.1016/j.tree.2023.11.003).
 
-Starrs G, **KJ Siegel**, S Larson, V Butsic (_in press_) Quantifying large-scale impacts of cattle grazing on annual burn probability in Napa and Sonoma Counties, CA. _Ecology & Society_.
+### In review
+14. Rybski D, O Hemond, A Wartenberg, **KJ Siegel**, V Butsic. Assessing fire landscape        connectivity in California using predictive percolation. In revision at _Scientific         Reports_.  
 
-LoPresti A, M Hayden, **KJ Siegel**, B Poulter, N Stavros, L Dee (_in press_) Remote sensing applications for prescribed burn research. _International Journal of Wildland Fire_.
+### Published 
+1. Leslie H, X Basurto, M Nenadovic, L Sievanen, K Cavanaugh, J Cota-Nieto, B Erisman, E
+   Finkbeiner, G Hinojosa-Arango, M Moreno‐Báez, S Nagavarapu, S Reddy, A Sanchez-Rodríguez,    **KJ Siegel**, JJ Ulibarria-Valenzuela, A Hudson Weaver, A Aburto-Oropeza (2015)            Operationalizing the social-ecological systems framework to assess sustainability.
+   _Proceedings of the National Academy of Sciences_ **112**(19): 5979-5984. [doi:
+   10.1073/pnas.1414640112](https://doi.org/10.1073/pnas.1414640112).
+   
+2. McDonald G, S Campbell, K Karr, M Clemence, P Granados-Dieseldorff, R Jakub, T              Kartawijaya, JC Mueller, P Prihatinningsing, **KJ Siegel**, Y Syaifudin (2018) An           adaptive assessment and management toolkit for data-limited fisheries. _Ocean & Coastal     Management_ **152**(1): 100-119.                                   [pdf](https://www.researchgate.net/profile/Stuart_Campbell19/publication/321443262_An_adapti   ve_assessment_and_management_toolkit_for_data-limited_fisheries/links/5c0e3b4c92851c39ebe24fcd/An-adaptive-assessment-and-management-toolkit-for-data-limited-fisheries.pdf)
 
-**Siegel KJ**, L Larsen, C Stephens, W Stewart, V Butsic (2022) Quantifying drivers of change in social-ecological systems: land management impacts wildfire probability in forests of the western US. _Regional Environmental Change_ **22**. [doi:10.1007/s10113-022-01950-y](https://doi.org/10.1007/s10113-022-01950-y).
+3. **Siegel KJ**, RB Cabral, J McHenry, E Ojea, B Owashi, SE Lester (2019) Sovereign states    in the Caribbean have lower social-ecological vulnerability to coral bleaching than         overseas territories. _Proceedings of the Royal Society B_ **286**(1897), 20182365.         [doi:10.1098/rspb.2018.2365](https://doi.org/10.1098/rspb.2018.2365).
 
-**Siegel KJ**, L Macaulay, M Shapero, T Becchetti, S Larson, F Mashiri, L Waks, V Butsic (2022) Impacts of livestock grazing on wildfire probability vary by region and vegetation type in California. _Journal of Environmental Management_ **322**, 116092. [doi:10.1016/j.jenvman.2022.116092](https://doi.org/10.1016/j.jenvman.2022.116092).
+4. Kinnebrew E, E Shoffner, A Farah Perez, M Mills-Novoa, J Ochoa, **KJ Siegel** (2020) A      review and typology of methodological approaches to interdisciplinary mixed methods         research in land change science and environmental management. _Conservation Biology_        **35**, 130-141. [doi:10.1111/cobi.13642](https://doi.org/10.1111/cobi.13642).
 
-**Siegel KJ**, A Farah Perez, E Kinnebrew, M Mills-Novoa, J Ochoa, E Shoffner (2022) Integration of qualitative and quantitative methods for land use change modeling in a protected area in an Amazonian deforestation frontier. _Conservation Biology_. [doi:10.1111/cobi.13924](https://doi.org/10.1111/cobi.13924).  
-*   Third place winner of _Conservation Biology's_ [Rising Star Award, 2023](https://doi.org/10.1111/cobi.14102)  
+5. Free, CM, RB Cabral, HE Froehlich, W Battista, E Ojea, E O'Reilly, JE Palardy, J Garcia     Molinos, **KJ Siegel**, R Arnason, MA Juinio-Meñez, K Fabricius, C Turley, SD Gaines        (2022) Expanding ocean food production under climate change. _Nature_ **605**(7910),        490-496. [doi:10.1038/s41586-022-04674-5](https://doi.org/10.1038/s41586-022-04674-5).
 
-Kinnebrew E, J Ochoa, M French, M Mills-Novoa, E Shoffner, **KJ Siegel** (2022) Biases and limitations of Global Forest Change and author-generated land cover maps in detecting deforestation in the Amazon. _PLoS ONE_ **17**(7), e0268970. [doi:10.1371/journal.pone.0268970](https://doi.org/10.1371/journal.pone.0268970).
+6. Shapero M, **KJ Siegel**, J Gallo, J Brice, V Butsic (2022) Land cover conversion and       land use change combine to reduce grazing. _Journal of Land Use Science_ **17**, 339-350.    [doi:10.1080/1747423X.2022.2086311](https://doi.org/10.1080/1747423X.2022.2086311).
 
-Shapero M, **KJ Siegel**, J Gallo, J Brice, V Butsic (2022) Land cover conversion and land use change combine to reduce grazing. _Journal of Land Use Science_ **17**, 339-350. [doi:10.1080/1747423X.2022.2086311](https://doi.org/10.1080/1747423X.2022.2086311).
+7. Kinnebrew E, J Ochoa, M French, M Mills-Novoa, E Shoffner, **KJ Siegel** (2022) Biases      and limitations of Global Forest Change and author-generated land cover maps in detecting    deforestation in the Amazon. _PLoS ONE_ **17**(7), e0268970.                               [doi:10.1371/journal.pone.0268970](https://doi.org/10.1371/journal.pone.0268970).
 
-Free, CM, RB Cabral, HE Froehlich, W Battista, E Ojea, E O'Reilly, JE Palardy, J Garcia Molinos, **KJ Siegel**, R Arnason, MA Juinio-Meñez, K Fabricius, C Turley, SD Gaines (2022) Expanding ocean food production under climate change. _Nature_ **605**(7910), 490-496. [doi:10.1038/s41586-022-04674-5](https://doi.org/10.1038/s41586-022-04674-5).
+8. **Siegel KJ**, A Farah Perez, E Kinnebrew, M Mills-Novoa, J Ochoa, E Shoffner (2022)        Integration of qualitative and quantitative methods for land use change modeling in a       protected area in an Amazonian deforestation frontier. _Conservation Biology_.              [doi:10.1111/cobi.13924](https://doi.org/10.1111/cobi.13924). Third place winner of
+   _Conservation Biology's_ [Rising Star Award, 2023](https://doi.org/10.1111/cobi.14102)  
 
-Kinnebrew E, E Shoffner, A Farah Perez, M Mills-Novoa, J Ochoa, **KJ Siegel** (2020) A review and typology of methodological approaches to interdisciplinary mixed methods research in land change science and environmental management. _Conservation Biology_ **35**, 130-141. [doi:10.1111/cobi.13642](https://doi.org/10.1111/cobi.13642).
+9. **Siegel KJ**, L Macaulay, M Shapero, T Becchetti, S Larson, F Mashiri, L Waks, V Butsic    (2022) Impacts of livestock grazing on wildfire probability vary by region and vegetation    type in California. _Journal of Environmental Management_ **322**, 116092.                 [doi:10.1016/j.jenvman.2022.116092](https://doi.org/10.1016/j.jenvman.2022.116092).
 
-**Siegel KJ**, RB Cabral, J McHenry, E Ojea, B Owashi, SE Lester (2019) Sovereign states in the Caribbean have lower social-ecological vulnerability to coral bleaching than overseas territories. _Proceedings of the Royal Society B_ **286**(1897), 20182365. [doi:10.1098/rspb.2018.2365](https://doi.org/10.1098/rspb.2018.2365).
+10. **Siegel KJ**, L Larsen, C Stephens, W Stewart, V Butsic (2022) Quantifying drivers of     change in social-ecological systems: land management impacts wildfire probability in        forests of the western US. _Regional Environmental Change_ **22**.                          [doi:10.1007/s10113-022-01950-y](https://doi.org/10.1007/s10113-022-01950-y).
 
-McDonald G, S Campbell, K Karr, M Clemence, P Granados-Dieseldorff, R Jakub, T Kartawijaya, JC Mueller, P Prihatinningsing, **KJ Siegel**, Y Syaifudin (2018) An adaptive assessment and management toolkit for data-limited fisheries. _Ocean & Coastal Management_ **152**(1): 100-119. [pdf](https://www.researchgate.net/profile/Stuart_Campbell19/publication/321443262_An_adaptive_assessment_and_management_toolkit_for_data-limited_fisheries/links/5c0e3b4c92851c39ebe24fcd/An-adaptive-assessment-and-management-toolkit-for-data-limited-fisheries.pdf)
+11. LoPresti A, M Hayden, **KJ Siegel**, B Poulter, N Stavros, L Dee (_in press_) Remote       sensing applications for prescribed burn research. _International Journal of Wildland       Fire_.
 
-Leslie H, X Basurto, M Nenadovic, L Sievanen, K Cavanaugh, J Cota-Nieto, B Erisman, E Finkbeiner, G Hinojosa-Arango, M Moreno‐Báez, S Nagavarapu, S Reddy, A Sanchez-Rodríguez, **KJ Siegel**, JJ Ulibarria-Valenzuela, A Hudson Weaver, A Aburto-Oropeza (2015) Operationalizing the social-ecological systems framework to assess sustainability. _Proceedings of the National Academy of Sciences_ **112**(19): 5979-5984. [doi: 10.1073/pnas.1414640112](https://doi.org/10.1073/pnas.1414640112).
+12. Starrs G, **KJ Siegel**, S Larson, V Butsic (_in press_) Quantifying large-scale impacts    of cattle grazing on annual burn probability in Napa and Sonoma Counties, CA. _Ecology &    Society_.
 
-### In revision, in review, and submitted
-Rybski D, O Hemond, A Wartenberg, **KJ Siegel**, V Butsic. Assessing fire landscape connectivity in California using predictive percolation. In revision at _Scientific Reports_.  
+13. **Siegel KJ**, K Cavanaugh, L Dee (2024) Balancing multiple management objectives as       climate change transforms ecosystems. _Trends in Ecology & Evolution_ **39**(4), 381-395.    [https://doi.org/10.1016/j.tree.2023.11.003](https://doi.org/10.1016/j.tree.2023.11.003).
 
 
 ## Conference Proceedings
