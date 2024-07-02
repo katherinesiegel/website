@@ -2,14 +2,14 @@
 title: "Opportunities"
 ---
 
-I am excited to build a collaborative, inclusive, and supportive group focused on advancing equitable and climate-adapted conservation science in forest social-ecological systems. 
+I am excited to build a collaborative, inclusive, and supportive group focused on advancing equitable and climate-adapted conservation science across diverse social-ecological systems. 
 
 ### Prospective graduate students
-Graduate students can join the group through the Institute of Forestry and Conservation in the Daniels Faculty (MS in Forestry or PhD in Forestry). I am also excited to work with students in the Masters of Forest Conservation program. More information on the graduate programs in Forestry at U of T and the admissions process can be found [here](https://academic.daniels.utoronto.ca/forestry/applications-and-admissions/). 
+Graduate students can join the group through the Geography Department at CU Boulder (MA or PhD in Geography). I am also excited to work with students in the [Earth Data Analytics Professional Graduate Certificate](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate). More information on the graduate programs in Geography at CU and the admissions process can be found [here](https://www.colorado.edu/geography/grad-program/graduate-curriculum). 
 
-If you are interested in working with me, please send me an email at <span style="color:maroon;">katherine.siegel@daniels.utoronto.ca</span> with the following information:  
+If you are interested in working with me, please send me an email at <span style="color:maroon;">katherine.j.siegel@colorado.edu</span> with the following information:  
 
-- which graduate program you are interested in (MS or PhD)  
+- which graduate program you are interested in (MA or PhD)  
 - a brief description of your research interests and relevant previous experience  
 - details on why you are interested in working in my lab specifically  
 - any other information you think is important to share at this point  
@@ -18,20 +18,20 @@ If you are interested in working with me, please send me an email at <span style
 If you don't hear back from me within two weeks, please reply to your first email to bump it up in my inbox to remind me!  
 
 ##### Funding
-There are a number of funding opportunities available to grad students in the Forestry program. I also encourage eligible applicants to apply for external funding, such as the [NSERC](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/bellandpostgrad-belletsuperieures_eng.asp) and [SSHRC](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/fellowships/doctoral-doctorat-eng.aspx) Doctoral Fellowship programs.
+I encourage eligible applicants to apply for external funding, such as the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/).
 
 ##### Advice for navigating the graduate admissions process  
 Choosing a graduate program and prospective advisor and then navigating the application and admissions process can be overwhelming, and there is a whole ["hidden curriculum"](https://www.psychologicalscience.org/observer/grad-hidden-curriculum) of knowledge that prospective grad students are expected to know. Here are some resources that may help you during this process:  
 
-- [Estien et al. 2023](https://doi.org/10.1002/bes2.2029) write about the hidden curriculum and provide advice on navigating the graduate school admissions process, with a focus on the US  
+- [Estien et al. 2023](https://doi.org/10.1002/bes2.2029) write about the hidden curriculum and provide advice on navigating the graduate school admissions process.  
 - [A First-Gen's Guide to Grad School](https://first-gen-guide.com/resources/)  
 - Dr. Alex Moore's [Moore Inclusive Lab](https://www.inclusiveconservationlab.com/resources) has resources on developing a research project, finding funding, the research and writing process, and diversity, equity, inclusion, and justice.  
 - Dr. Jacqueline Gill has a great [blog post](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) with advice for contacting potential grad school advisors, including an example of an inquiry email to introduce yourself
 
 ### Prospective undergraduate students  
-I am excited to work with motivated and curious undergraduates who are interested in assisting on my ongoing projects or developing independent projects. I will update this section with more information on how to get involved once I arrive at U of T in early 2024. In the meantime, I encourage you to check out the [NSERC's Undergraduate Student Research Awards](https://academic.daniels.utoronto.ca/forestry/nserc-usra/) available through U of T's Forestry program.
+I am excited to work with motivated and curious undergraduates who are interested in assisting on my ongoing projects or developing independent projects. I will update this section with more information on how to get involved once I arrive at CU Boulder.  
 
 ### Prospective postdoctoral fellows
-Prospective postdocs will need to apply for their own funding, as I do not currently have funding to hire a postdoc. If you are a Canadian citizen or permanent resident, you are eligible for the [NSERC](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) and [SSHRC](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/fellowships/postdoctoral-postdoctorale-eng.aspx) Postdoctoral Fellowship programs. The [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html), [Liber Ero Fellowship](https://liberero.ca/), and [Mitacs Elevate Fellowship](https://www.mitacs.ca/en/programs#postdoc) are open to candidates regardless of nationality. Indigenous and/or Black prospective postdocs can also apply for the [Provost's Postdoctoral Fellowship](https://postdoc.sgs.utoronto.ca/provosts-postdoctoral-fellows/) at U of T. Lily Dove and Clare Singer have also put together a [great document](https://t.co/RUgdbr3S13) on how to find and apply for postdoc positions. If working with me seems like a good fit for both of us, I am happy to provide feedback on proposal ideas and application materials.  
+Prospective postdocs will need to apply for their own funding, as I do not currently have funding to hire a postdoc. Potential funding sources to look into include the [NOAA Climate & Global Change Postdoctoral Fellowship](https://cpaess.ucar.edu/cgc), the NSF Postdoctoral Research Fellowship in [Biology](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) or [Social, Behavioral, and Economic Sciences](https://new.nsf.gov/funding/opportunities/sbe-postdoctoral-research-fellowships-sprf), and the [Smith Conservation Research Fellowship Program](https://conbio.org/mini-sites/smith-fellows). Lily Dove and Clare Singer have also put together a [great document](https://t.co/RUgdbr3S13) on how to find and apply for postdoc positions. 
 
-To start the conversation, please send me an email (katherine.siegel@daniels.utoronto.ca) with a description of your current research, a brief description of your idea for a postdoc project and how it links to the lab's work, and your CV.
+If working with me seems like a good fit for both of us, I am happy to provide feedback on proposal ideas and application materials. To start the conversation, please send me an email (katherine.j.siegel@colorado.edu) with a description of your current research, a brief description of your idea for a postdoc project and how it links to the lab's work, and your CV.
