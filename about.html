@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.557">
+<meta name="generator" content="quarto-1.5.53">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="description" content="Katherine Siegel">
 
-<title>Katherine Siegel -</title>
+<title>about – Katherine Siegel</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,13 +80,13 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./about.html">About</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -178,9 +178,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="g-col-12 g-col-md-8">
-<p>I am an interdisciplinary environmental scientist interested in the sustainable and equitable management of ecosystems in the context of rapid environmental change. In January 2024, I joined the <a href="https://academic.daniels.utoronto.ca/forestry/">Institute of Forestry &amp; Conservation</a> at the <a href="https://www.utoronto.ca/">University of Toronto</a> as an assistant professor. I integrate diverse quantitative and qualitative data to understand the drivers of change in complex social-ecological systems, drawing on theories and methods from conservation science, global change ecology, econometrics, and environmental data science while co-producing knowledge through collaborations with land management agencies. Much of my current work focuses on the socio-environmental impacts of changing wildfire regimes in western North America.</p>
+<p>I am an interdisciplinary environmental scientist interested in the sustainable and equitable management of ecosystems in the context of rapid environmental change. I am currently an assistant professor in the <a href="https://academic.daniels.utoronto.ca/forestry/">Institute of Forestry &amp; Conservation</a> at the University of Toronto. In August 2024, I will be moving to the University of Colorado-Boulder, where I will be an assistant professor affiliated with the <a href="https://www.colorado.edu/geography/">Department of Geography</a>, the <a href="https://cires.colorado.edu/">Cooperative Institute for Research In Environmental Sciences</a>, and the <a href="https://esiil.org/">Environmental Data Science Innovation &amp; Inclusion Lab</a>.</p>
+<p>I integrate diverse quantitative and qualitative data to understand the drivers of change in complex social-ecological systems, drawing on theories and methods from conservation science, global change ecology, econometrics, and environmental data science while co-producing knowledge through collaborations with land management agencies. Much of my current work focuses on the socio-environmental impacts of changing wildfire regimes in western North America.</p>
 <p>I was previously a <a href="https://cpaess.ucar.edu/cgc">NOAA Climate &amp; Global Change Postdoctoral Fellow</a> in the Department of Ecology &amp; Evolutionary Biology at the University of Colorado, Boulder. I received my PhD in Environmental Science, Policy, &amp; Management at the University of California, Berkeley, where I worked with Dr.&nbsp;Van Butsic in the <a href="https://luclab.berkeley.edu/">LUC Lab</a>. At Berkeley, I was a trainee in <a href="http://ds421.berkeley.edu/">Data Science for the 21st Century</a>, a National Science Foundation National Research Traineeship program focused on interdisciplinary environmental data science, and co-led a <a href="https://www.sesync.org/research/agricultural-frontiers">National Socio-Environmental Synthesis Center</a> Graduate Pursuit. My doctoral studies were supported by a Berkeley Fellowship. I have an MS in Biodiversity, Conservation, &amp; Management from the University of Oxford and a BS in Environmental Science from Brown University. I use she/her/hers pronouns.</p>
-<p>I am actively recruiting graduate students, undergraduate students, and postdoctoral fellows to join the lab at University of Toronto beginning in fall 2024! Visit the <a href="https://katherinesiegel.github.io/website/opportunities.html">Opportunities</a> page for more information.</p>
+<p>I am actively recruiting graduate students, undergraduate students, and postdoctoral fellows to join the lab at University of Colorado-Boulder! Visit the <a href="https://katherinesiegel.github.io/website/opportunities.html">Opportunities</a> page for more information.</p>
 </div>
 </div>
 
@@ -223,18 +224,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -266,7 +256,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/katherinesiegel\.github\.io\/website\/");
@@ -274,7 +286,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
