@@ -8,11 +8,6 @@ ol  { display: flex; flex-direction: column-reverse; }
 ## Peer-Reviewed
 Please email me if you would like a pdf copy of a publication. You can also find a full list of my publications at my [Google Scholar page](https://scholar.google.com/citations?user=IhOqSsIAAAAJ&hl=en&oi=ao). 
 
-
-### In review
-14. Rybski D, O Hemond, A Wartenberg, **KJ Siegel**, V Butsic. Assessing fire landscape        connectivity in California using predictive percolation. In revision at _Scientific         Reports_.  
-
-### Published 
 1. Leslie H, X Basurto, M Nenadovic, L Sievanen, K Cavanaugh, J Cota-Nieto, B Erisman, E
    Finkbeiner, G Hinojosa-Arango, M Moreno‐Báez, S Nagavarapu, S Reddy, A Sanchez-Rodríguez,    **KJ Siegel**, JJ Ulibarria-Valenzuela, A Hudson Weaver, A Aburto-Oropeza (2015)            Operationalizing the social-ecological systems framework to assess sustainability.
    _Proceedings of the National Academy of Sciences_ **112**(19): 5979-5984. [doi:
@@ -39,7 +34,7 @@ Please email me if you would like a pdf copy of a publication. You can also find
 
 11. LoPresti A, M Hayden, **KJ Siegel**, B Poulter, N Stavros, L Dee (2024) Remote       sensing applications for prescribed burn research. _International Journal of Wildland       Fire_ **33**(6). [https://doi.org/10.1071/WF23130](https://doi.org/10.1071/WF23130).  
 
-12. Starrs G, **KJ Siegel**, S Larson, V Butsic (_in press_) Quantifying large-scale impacts    of cattle grazing on annual burn probability in Napa and Sonoma Counties, CA. _Ecology &    Society_.
+12. Starrs G, **KJ Siegel**, S Larson, V Butsic (2024) Quantifying large-scale impacts    of cattle grazing on annual burn probability in Napa and Sonoma Counties, CA. _Ecology &    Society_, **29**(3). [https://doi.org/10.5751/ES-15080-290310](https://doi.org/10.5751/ES-15080-290310).
 
 13. **Siegel KJ**, K Cavanaugh, L Dee (2024) Balancing multiple management objectives as       climate change transforms ecosystems. _Trends in Ecology & Evolution_ **39**(4), 381-395.    [https://doi.org/10.1016/j.tree.2023.11.003](https://doi.org/10.1016/j.tree.2023.11.003).
 
