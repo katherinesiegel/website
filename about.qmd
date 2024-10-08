@@ -45,7 +45,7 @@ title: ""
 
 ::: {.g-col-12 .g-col-md-8}
 
-I am an interdisciplinary environmental scientist interested in the sustainable and equitable management of ecosystems in the context of rapid environmental change. I am an assistant professor at the University of Colorado-Boulder affiliated with the [Department of Geography](https://www.colorado.edu/geography/), the [Cooperative Institute for Research In Environmental Sciences](https://cires.colorado.edu/), and the [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/).
+I am an interdisciplinary environmental scientist interested in the sustainable and equitable management of ecosystems in the context of rapid environmental change. I am an assistant professor at the University of Colorado-Boulder affiliated with the [Department of Geography](https://www.colorado.edu/geography/), the [Cooperative Institute for Research In Environmental Sciences](https://cires.colorado.edu/), and the [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/). 
 
 I integrate diverse quantitative and qualitative data to understand the drivers of change in complex social-ecological systems, drawing on theories and methods from conservation science, global change ecology, econometrics, and environmental data science while co-producing knowledge through collaborations with land management agencies. Much of my current work focuses on the socio-environmental impacts of changing wildfire regimes in western North America.
 
