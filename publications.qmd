@@ -38,6 +38,8 @@ Please email me if you would like a pdf copy of a publication. You can also find
 
 13. **Siegel KJ**, K Cavanaugh, L Dee (2024) Balancing multiple management objectives as       climate change transforms ecosystems. _Trends in Ecology & Evolution_ **39**(4), 381-395.    [https://doi.org/10.1016/j.tree.2023.11.003](https://doi.org/10.1016/j.tree.2023.11.003).
 
+14. **Siegel KJ**, L Dee (2024) Foundations and future directions for causal inference in ecological research. In press at _Ecology Letters_.
+
 
 ## Conference Proceedings
 

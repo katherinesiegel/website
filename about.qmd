@@ -51,7 +51,7 @@ I integrate diverse quantitative and qualitative data to understand the drivers 
 
 I was previously an assistant professor in the Institute of Forestry & Conservation at the University of Toronto and a NOAA Climate & Global Change Postdoctoral Fellow in the Department of Ecology & Evolutionary Biology at the University of Colorado, Boulder. I received my PhD in Environmental Science, Policy, & Management at the University of California, Berkeley, where I worked with Dr. Van Butsic in the LUC Lab. At Berkeley, I was a trainee in Data Science for the 21st Century, a National Science Foundation National Research Traineeship program focused on interdisciplinary environmental data science, and co-led a National Socio-Environmental Synthesis Center Graduate Pursuit. My doctoral studies were supported by a Berkeley Fellowship. I have an MS in Biodiversity, Conservation, & Management from the University of Oxford and a BS in Environmental Science from Brown University. I use she/her/hers pronouns.  
  
-I am actively recruiting graduate students, undergraduate students, and postdoctoral fellows to join the Future of Working Landscapes (FoWL) lab at University of Colorado-Boulder! Visit the [Opportunities](https://katherinesiegel.github.io/website/opportunities.html) page for more information. 
+I am actively recruiting graduate students, undergraduate students, and postdoctoral fellows to join the [Future of Working Landscapes (FoWL) lab](https://www.colorado.edu/lab/fowllab) at University of Colorado-Boulder! Visit the [Opportunities](https://katherinesiegel.github.io/website/opportunities.html) page for more information. 
 
 :::
 
