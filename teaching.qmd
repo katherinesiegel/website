@@ -8,15 +8,22 @@ I prepare students and mentees for lifelong learning by teaching critical thinki
 I strive to create an equitable and inclusive learning environment through guidelines for classroom interactions and integrating historically-excluded perspectives into class. During my PhD, I earned a [Certificate in Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/). This certification included classroom observation and feedback from a faculty mentor, syllabus design, and coursework in effective and inclusive pedagogy. I was nominated for the Extraordinary Teaching in Extraordinary Times Award in 2021 in recognition of my student-centered teaching during COVID-19 shutdowns.
 
 ### Courses Taught 
-**University of Toronto**
-*Forest Conservation Biology*, Instructor of Record
 
 **University of Colorado-Boulder**  
-*Causal Inference for Ecology & Evolutionary Biology*, Co-Instructor of Record (course website [here](https://katherinesiegel.github.io/EBIOcausalinference/))
+
+* *Earth Data Analytics: Data Science Bootcamp*  
+* *Earth Data Analytics: Python*  
+* *GIS: Spatial Analytics*  
+* *Causal Inference for Ecology & Evolutionary Biology*, Co-taught with Dr. Laura Dee (course website [here](https://katherinesiegel.github.io/EBIOcausalinference/))
+
+**University of Toronto**  
+
+* *Forest Conservation Biology*
 
 **University of California-Berkeley**  
-*Principles of Conservation Biology*, Graduate Student Instructor  
-*Fire: Past, Present, and Future Interactions with the Peoples and Ecosystems of California*, Graduate Student Instructor
+
+* *Principles of Conservation Biology*, Graduate Student Instructor  
+* *Fire: Past, Present, and Future Interactions with the Peoples and Ecosystems of California*, Graduate Student Instructor
 
 ### Mentoring  
 I view mentoring as an important vehicle for addressing obstacles to diversity, equity, inclusion, and justice in higher education, STEM, and the environmental community. I have mentored 14 undergraduate researchers at UC Berkeley and CU Boulder, and for the past three years, I have mentored a first-generation college student through [Oakland Promise](https://oaklandpromise.org/). I have also supported prospective grad students through the grad school application process through [Cientifico Latino](https://www.cientificolatino.com/) and mentored first-time attendees at the Ecological Society of America's annual meeting through ESA's Strategies for Ecology Education, Diversity, & Sustainability ([SEEDS](https://www.esa.org/seeds/)) program.

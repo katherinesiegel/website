@@ -40,11 +40,12 @@ Please email me if you would like a pdf copy of a publication. You can also find
 
 14. **Siegel KJ**, L Dee (2025) Foundations and future directions for causal inference in ecological research. _Ecology Letters_ **28**(1), e70053. [https://doi.org/10.1111/ele.70053](https://doi.org/10.1111/ele.70053).
 
-15. Dudney J, L Dee, R Heilmayr, J Byrnes, **K Siegel** (2025) A causal inference framework for climate change attribution in ecology. _Ecology Letters_ **28**(8), e70192. [https://doi.org/10.1111/ele.70192](https://doi.org/10.1111/ele.70192).
+15. Dudney J, L Dee, R Heilmayr, J Byrnes, **KJ Siegel** (2025) A causal inference framework for climate change attribution in ecology. _Ecology Letters_ **28**(8), e70192. [https://doi.org/10.1111/ele.70192](https://doi.org/10.1111/ele.70192).
 
 
-16. Lynch A, J Ashander, T Ciocco, A Cravens, C Dassow, L Dee, J Dunham, M Eaton, H Embke, J Hennessy, A Latzka, D Lawrence, J Littell, B Miller, L Palasti, M Runge, G Sass, A Shultz, **K Siegel**, L Svancara, L Thompson, L Thurman, J Valler, S Weiskopf, H Yocum (2025) RAD (Resist-Accept-Direct) switch points and triggers for adaptation planning. _Journal of Environmental Management_ **392**, 126419. [https://doi.org/10.1016/j.jenvman.2025.126419](https://doi.org/10.1016/j.jenvman.2025.126419).
+16. Lynch A, J Ashander, T Ciocco, A Cravens, C Dassow, L Dee, J Dunham, M Eaton, H Embke, J Hennessy, A Latzka, D Lawrence, J Littell, B Miller, L Palasti, M Runge, G Sass, A Shultz, **KJ Siegel**, L Svancara, L Thompson, L Thurman, J Valler, S Weiskopf, H Yocum (2025) RAD (Resist-Accept-Direct) switch points and triggers for adaptation planning. _Journal of Environmental Management_ **392**, 126419. [https://doi.org/10.1016/j.jenvman.2025.126419](https://doi.org/10.1016/j.jenvman.2025.126419).
 
+17. **Siegel KJ**, M Mills-Novoa, E Kinnebrew, J Ochoa-Brito, E Shoffner (2025) Unverstanding deforestation dynamics in Amazonian protected areas through land-use change models informed by conservation discourses. _Biological Conservation_.    [https://doi.org/10.1016/j.biocon.2025.111585](https://doi.org/10.1016/j.biocon.2025.111585).
 
 ## Conference Proceedings
 
